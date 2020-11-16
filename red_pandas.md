@@ -79,7 +79,7 @@ In the past, red pandas were captured and sold to zoos. In an article appearing 
 
 ### Birth Rate
 The red panda has a naturally low birth rate (usually one single or twin birth per year), and a high death rate in the wild.
-<img src="https://raw.githubusercontent.com/PingHuskar/DataSciSDU/master/home-bg.jpg">
+https://raw.githubusercontent.com/PingHuskar/DataSciSDU/master/home-bg.jpg
 
 # Conservation
 
